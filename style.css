@@ -1,0 +1,34 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-position: center;
+    background-size: cover;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 15px;
+}
+#exit_button{
+    float: left;
+    position: sticky;
+    margin-left: 10px;
+}
+.screen_button{
+    margin: 20px;
+    border-radius: 10px;
+    line-height: 250px;
+    width: 30%;
+    font-size: 40px;
+    font-family: 'Patrick Hand', cursive;
+    color: black;
+}
